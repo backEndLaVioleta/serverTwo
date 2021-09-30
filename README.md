@@ -2,7 +2,7 @@
 
 ### Server http and use of stream to modify the body message
 
-##### Technologies
+##### **Technologies**
 
  * http from http
  
@@ -11,6 +11,6 @@
  * REST client VSC extension
  
 
-##### Result accomplished
+##### **Result accomplished**
 
 If the request includes the word 'PING' the response from the server will be 'PONG'
